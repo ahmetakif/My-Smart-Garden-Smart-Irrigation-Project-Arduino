@@ -9,7 +9,7 @@ This is an arduino based smart watering system for plants. This project consists
 ![alt text](https://github.com/ahmetakif/My-Smart-Garden-Smart-Irrigation-Project-Arduino/blob/master/IMAGES/5.PNG?raw=true)
 
 
-See Project on my Website: http://ahmetakifkaya.com/project/otherprojects.html
+See Project on my Website: http://ahmetakifkaya.com/?page_id=95
 
 See Project Page: https://ahmetakifkayaprojeblog.blogspot.com/2018/06/bahce-sulamas-projem-icin-tasarladgn.html
 
